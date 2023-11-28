@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 9f2d58391db572843aab4591b636e08f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Khand
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 21bed8ce1c2e203448e911e7ec4ffcf8, type: 3}
+  - {fileID: 12800000, guid: f96a8994549edf347be26f402fbd51b9, type: 3}
+  - {fileID: 12800000, guid: a0fb7a96e354f074c95bfdd7fee82123, type: 3}
+  - {fileID: 12800000, guid: cba15db184fe6b54aaf6145a19638a63, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
